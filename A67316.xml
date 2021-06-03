@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief answer to an indictment presented by the jury upon oath at Surry-sessions held for that county at Croydon, against several of the inhabitants in Southwark. Together with a copy of the indictment. By Thomas Wall.</title>
+            <author>Wall, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67316</idno><idno type="EEBO-CITATION">99832193</idno>
+  <idno type="VID">36665</idno>
+  <idno type="EEBO-PROQUEST">2248550169</idno>
+  
+            <idno type="STC">Wing W475</idno>
+            <idno type="STC">ESTC R220808</idno>
+            <idno type="PROQUEST">99832193</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832193e"/>
+            <note>(EEBO-TCP ; phase 2, no. A67316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36665)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2102:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief answer to an indictment presented by the jury upon oath at Surry-sessions held for that county at Croydon, against several of the inhabitants in Southwark. Together with a copy of the indictment. By Thomas Wall.</title>
+                  <author>Wall, Thomas.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Wall, G. Hampton, and the rest of the persons indicted, and sold by W. Marshall, at the Bible in New-gate-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The indicted were accused of failing to attend church services for two months.</note>
+                  <note>Reproduction of the original in St. Davids University College Library, Lampeter, Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church attendance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36665:1"/>
+            <p>A Brief ANSWER TO AN INDICTMENT Presented by the Jury upon Oath, AT SURRY-SESSIONS <hi>Held for that County at</hi> Croydon, Against Several of the Inhabitants in <hi>Southwark. Together with A</hi> COPY of the INDICTMENT.</p>
+            <p>By <hi>THOMAS WALL.</hi>
+            </p>
+            <q>
+               <p>They that forsake the Law praise the wicked, but such as keep the Law contend with them.</p>
+               <bibl>
+                  <hi>Prov. 28.4.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>T. Wall, G. Hampton,</hi> and the rest of the Persons Indicted, and Sold by <hi>W. Marshall,</hi> at the <hi>Bible</hi> in <hi>New<g ref="char:EOLhyphen"/>gate-street.</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer_to_indictment">
+            <pb facs="tcp:36665:2"/>
+            <pb n="3" facs="tcp:36665:2"/>
+            <head>A Brief ANSWER TO AN INDICTMENT, &amp;c.</head>
+            <head>The Copy of which said Indictment take as follows:</head>
+            <opener>
+               <dateline>Croydon xxxiii. Carol. Secund. &amp;c.</dateline>
+            </opener>
+            <p>Surry Sessions,</p>
+            <p>THe Jury for our Lord the King do present upon Oath, That <hi>Thomas Wall</hi> of the Parish of St. <hi>Olaves Southwark,</hi> in the County aforesaid, <hi>Taylor,</hi> on the <hi>Twelfth</hi> day of <hi>February,</hi> in the <hi>Thirty Fourth</hi> Year of the Reign of our Sovereign Lord <hi>Charles</hi> the Second, of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> King, Defender of the Faith, <hi>&amp;c.</hi> being of <hi>Sixteen</hi> Years of Age, and upward, and then and hitherto a Subject of this Kingdom, and living in the Parish of St. <hi>Olaves Southwark,</hi> aforesaid, in the County aforesaid, did not repair to his Parish Church nor to any other Church or Chappel, or usual place of <hi>Common-Prayer,</hi> then and there to remain during the time of Divine Service, at which time,
+<pb n="4" facs="tcp:36665:3"/>and for the time and space of two Months next fol<g ref="char:EOLhyphen"/>lowing the <hi>Twelfth</hi> day of <hi>February</hi> aforesaid, he hath wilfully and obstinately forborn or refrained the same contrary to the form of Law in that Case made and provided, and against the Peace of our Lord the King, his Crown and Dignity.</p>
+            <closer>
+               <signed>
+                  <hi>By</hi> Tho. Abell, <hi>Clerk of the Peace for the County aforesaid.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="reply">
+            <pb n="5" facs="tcp:36665:3"/>
+            <head>The REPLY.</head>
+            <p>LET any Rational men judge whether these men could be<g ref="char:EOLhyphen"/>lieve in their Consciences that which they have sworn against their Neighbours to be true, because they did not see them at the Church or Congregation they were at (if they themselves were at any.) Could they not therefore be at any Church of God in <hi>England,</hi> for the space of some one or two months, when as they were none of them in the Company of their Neighbours, to their knowledge not any one of the Lords-days, from nine a Clock in the Morning, to four a Clock in the Afternoon, as they should have been; if any credit might have been given to their Evi<g ref="char:EOLhyphen"/>dence.</p>
+            <p>But seeing we are fallen into the last and perillous
+<note n="(a)" place="margin">2 <hi>Tim.</hi> 3.2.</note> dayes, that men will shew themselves (as saith the Scriptures) to be without Na<g ref="char:EOLhyphen"/>tural Affections, false Accusers, dispisers of those that are Good: therefore the Lord hath charged all
+<note n="(b)" place="margin">2 <hi>Chro.</hi> 19.6.</note> Judges (who judge not for man but the Lord) to observe his Councel in judging between their Brethren, as it is writen, if a false
+<note n="(c)" place="margin">
+                  <hi>Deu.</hi> 19.16.18.</note> Witness rise against a man, to testifie against him that which is wrong, then the Judges shall make diligent inquisition; and if the Witness be a false Witness, and hath testified falsly against his Brother, then shall they do un<g ref="char:EOLhyphen"/>to him, as he had thought to do unto his Brother. Now if our Judges had took the Lords Councel, and so made dilligent inquisi<g ref="char:EOLhyphen"/>tion how the Evidence could be true: forasmuch as the Law doth not limit their Neighbors to go to one particular Church, but to any one Church of God in <hi>England,</hi> and they being not in their Company any of the Lords-days, as aforesaid, therefore their Evidence could not possibly be true, and therefore saith the Lord to the Judges, thou shall not receive a false report,
+<note n="(d)" place="margin">
+                  <hi>Exod.</hi> 23.1.6.</note> neither put thy hand with the wicked to be an unrighteous Witness, neither to decline after many to rest judgment, seeing it is not good to punish the
+<note n="(e)" place="margin">
+                  <hi>Prov.</hi> 17.26.</note> just, nor that Princes should smite such for equity, and thus ought Judges not to judg by the outward appearance, (saith Christ) but judg Righteous
+<note n="(f)" place="margin">
+                  <hi>John</hi> 7.24. <hi>Deu.</hi> 1.16.</note> judgment, as did that wise King <hi>Soloman</hi> when the two women pleaded confidently
+<note n="(g)" place="margin">1 <hi>Kings</hi> 1.22.23.</note> for the living Child, he by making dilligent inquisition into the matter, soon perceived who was true Mother of the living Child.</p>
+            <p>Secondly, We are to believe the Law speaketh to the Kings Sub<g ref="char:EOLhyphen"/>jects in such terms of words, that are to be understood in its most
+<pb n="6" facs="tcp:36665:4"/>true and proper meaning, therefore seeing these men have sworn against their Neighbours, that they were not at Church, it is need<g ref="char:EOLhyphen"/>ful to know what is the true meaning of the word Church, the word being generally used in Scripture not for a House of Wood and Stone; forasmuch as the Lord dwelleth not in Temples or Ta<g ref="char:EOLhyphen"/>bernacles made with hands, but in a Tabernacle and Temple of living Stones, built up a Spiritual
+<note n="(a)" place="margin">
+                  <hi>Pet.</hi> 2.5.</note> house to offer up Spiritual Sacri<g ref="char:EOLhyphen"/>fice acceptable to God by Jesus Christ, which is called the Church
+<note n="(b)" place="margin">
+                  <hi>Acts</hi> 14.27. 1 <hi>Cor.</hi> 5.4. <hi>Acts</hi> 2.47.</note> of God, at such a Church the person in the Indictment was at every Lords-day, though the Evidence have sworn he was not: and this is the meaning of the word Church, in the Law, when rightly understood according to the Scripture Language.</p>
+            <p>Thirdly, It is needful also to know what the Law intendeth by Divine Service, because the person Indicted is charged for not hear<g ref="char:EOLhyphen"/>ing it; now the Scripture calleth that Worship and Service under the Law; first bound to the Tabernacle, and after to the Temple at <hi>Jerusalem</hi> to be performed: Divine
+<note n="(c)" place="margin">
+                  <hi>Heb.</hi> 9.1.</note> Service, and this service we believe, though called Divine, the form of Law in the Indictment requireth none of the Kings Subjects to keep, because Christ is the end of the Seremonial Law
+<note n="(d)" place="margin">
+                  <hi>Ephes.</hi> 2.15. <hi>Heb.</hi> 10.1.</note> for Righteousness to all that be<g ref="char:EOLhyphen"/>lieve, being shadows of good things to come. Now by the death of Christ made good to his people, who is made unto them
+<note n="(e)" place="margin">1 <hi>Cor.</hi> 1.30.</note> Wisdom, Righteousness, Sanctification, and Redemption: so that now under the Gospel, if any service may be called Divine, it must needs be those Holy Ordinances in the service of God, in that order Christ Jesus In his last Will and Testament, by the hands of his Apostles hath commanded the Gospel Churches to do as is writ<g ref="char:EOLhyphen"/>ten,
+<note n="(f)" place="margin">
+                  <hi>Mat.</hi> 28.20.</note> teaching them to observe all things, and loe I am with you to the end of the World. And thus we see, to observe in the Worship of God, that only which the Primitive Churches were commanded is the whole Will of God. Accordingly, saith the Apostle, <hi>I have not shunned to declare unto you</hi> (meaning to the Churches) <hi>the whole Counsel of God.</hi> So that none need say, Who shall ascend up into
+<note n="(g)" place="margin">
+                  <hi>Rom.</hi> 10.7.8.</note> Heaven, to fetch Christ from above, to give another Divine Service for his Worship, because the Word is nigh us for our Instruction, that the People of God may be throughly
+<note n="(h)" place="margin">2 <hi>Tim.</hi> 3.16.17.</note> fur<g ref="char:EOLhyphen"/>nished unto all good Works of Faith in Believing and Labour of Love in keeping the Commandments of God. So that, saith the Apostle, <hi>If any
+<note n="(k)" place="margin">1 <hi>Cor.</hi> 14.37.38.</note> man think himself to be a Prophet, or spiritual, let him acknowledge that the things I writ unto you are the Commandments of the Lord.</hi> So that if any man be ignorant in these things, let him be ignorant.
+<note n="()" place="margin">
+                  <hi>Act</hi> 20.27.</note>
+            </p>
+            <pb n="7" facs="tcp:36665:4"/>
+            <p> Therefore all Christians may assure themselves that the first Divine Service was given by a Divine God, unto which nothing (by any Mortal Man) might be added to or taken from or dis<g ref="char:EOLhyphen"/>orderly done, even so now under the Gospel, none but a Divine God can give a Divine Service, but Christ was God who hath given by the hands of his Apostles a Divine Service, which they delivered to the Churches (as aforesaid) to keep: unto which no<g ref="char:EOLhyphen"/>thing may be added or taken from, but they that do are lyable to all the Curses
+<note n="(s)" place="margin">
+                  <hi>Rev.</hi> 22.18. <hi>Deut.</hi> 4.2.</note> of God in his Word. Forasmuch as the Sons of base men are vanity, the Sons of Noble Men
+<note n="(t)" place="margin">
+                  <hi>Psal.</hi> 62.9.</note> are falsities being weighed together in the ballance, they are altogether lighter than vanity, to make a Divine Service for God, for what if <hi>Jereboam</hi> when he made two golden Calves and put a Divine Title upon them as he vainly thought, saying These be thy Gods O <hi>Israel,</hi> when as they were reputed by the Lord but as Devils,
+<note n="(u)" place="margin">2 <hi>Chro.</hi> 11.15. <hi>Rev.</hi> 9.20.</note> and if the Lord reproved King <hi>David</hi> for having it but in his heart
+<note n="(x)" place="margin">2 <hi>Sam.</hi> 7.7.</note> to build an House for the Service of his Creator, without his special Order, how much more are they worthy of Reproof, who are but alike human creatures, a lump of Mortality, who in his best and regenerated Estate is
+<note n="(y)" place="margin">
+                  <hi>Rom.</hi> 7.24.</note> but wretched man, that shall pre<g ref="char:EOLhyphen"/>sume to make a Service and call it Divine, without Gods special Order, will not the Lord say <hi>Who required these
+<note n="(z)" place="margin">
+                     <hi>Isai</hi> 1.12.</note> things at your hands?</hi> and so be under the same reproof as was the <hi>Jews</hi> when they added their Traditions to Gods Ordinances in his Service, as Christ told them, in vain did they
+<note n="(z)" place="margin">
+                  <hi>Mat.</hi> 15.8.9.</note> Worship God, teaching for Doctrine the Commandments of men, drawing near to God with their mouths when their hearts were far from him, because their fear towards God was taught by the precepts of men, so that now all Churches under the Gospel are commanded not to touch, tast,
+<note n="(a)" place="margin">
+                  <hi>Collos.</hi> 2.16, 17.21.22.</note> or handle any <hi>Jewish</hi> Ceremoney, or <hi>Gentile</hi> Tradition, be<g ref="char:EOLhyphen"/>cause all are to perish with the using after the Commandments and Doctrines of men, and though they have a shew of wisdom and humility highly esteemed in the sight of men, yet it is but will-worship, therefore abominable in the sight of God, therefore seeing there was never any Service that might be called Divine but that under the Law, and this under the Gospel given by the Lord Jesus Christ, therefore it must needs be the Latter that the King's Law requireth his Subjects to hear and observe the same, and that the person Indicted is able to prove That he was at a <hi>True Church of God</hi> during the whole time of the performance of the same every one of the <hi>Lords Days,</hi> he is in the Indictment Accused that he was not, therefore let the Wise judge what Law
+<note n="*" place="margin">
+                  <hi>Luke</hi> 16.15.</note>
+               <pb n="8" facs="tcp:36665:5"/>of God or Man, can be broken in this particular. Now whoso<g ref="char:EOLhyphen"/>ever shall Expound the King's Laws concerning the meaning of the word Church, or the word Divine-Service, to be understood contradicting the <hi>Word of God</hi> and right Reason, is but abusing the right sense of the Kings Laws, and so to be deemed no part of the Law but void in Law, but as the word Church in its true meaning is a Congregation
+<note n="(b)" place="margin">
+                  <hi>Act.</hi> 14.27.</note> of People called to be Saints
+<note n="(c)" place="margin">
+                  <hi>Rom.</hi> 1.7.</note> joyn'd
+<note n="(d)" place="margin">
+                  <hi>Act.</hi> 2.47.</note> together in the Covenant of the Gospel to serve God, and also that Divine Service in its true meaning is all those things (to wit) Christs Ordinances
+<note n="(e)" place="margin">1 <hi>Cor.</hi> 11.2.</note> faithfully performed in his Wor<g ref="char:EOLhyphen"/>ship, which Christ commanded the Churches to observe as aforesaid, by his Apostles, then for any to say that the word Church meaneth a house built with Wood and Stone, or the word Divine Service to mean what Mortal Man by his Will hath composed is absurd and erroneous, contrary to the Doctrine of the Gospel, and contrary to the true meaning of the King's Laws.</p>
+            <p>Moreover, whereas the persons indicted are sworn against, that they have wilfully and obstinately forborn to hear Divine Service: How can this be true, seeing they were never admonished by their Ac<g ref="char:EOLhyphen"/>cusers? And men are not usually charged with Obstinacy until they refuse Admonition. But if these our Accusers do own us as Members of the Congregation they are of, and so their Brethren, as the Mini<g ref="char:EOLhyphen"/>ster will when we are dead, if, as his custom is, he do read the Burial, as it is called, then <hi>this our dear Brother is departed,</hi> then the Rule of Christ for Brethren is, If thy Brother trespass against thee, go tell him of his fault between thee and him alone, as saith <hi>Soloman, Debate thy Cause with thy Neighbour himself, and discover not a Secret to another;</hi> but on the contrary, they have followed the footsteps of <hi>Ham, Noah</hi>'s Son, when seeing his Father's nakedness, covered it not; but to the open shame and disgrace of his Father,
+<note n="(h)" place="margin">
+                  <hi>Gen.</hi> 9.21, 22, 25.</note> told his Brethren: for which evil work he was curs<g ref="char:EOLhyphen"/>sed. So likewise these our Accusers, in open Court, before many, published our supposed fault, to the disgrace and shame of their Bre<g ref="char:EOLhyphen"/>thren, when Love should have taught them, If thy Brother be o<g ref="char:EOLhyphen"/>vertaken in a fault, restore such an one with the spirit of
+<note n="(i)" place="margin">
+                  <hi>Gal.</hi> 6.1.</note> meek<g ref="char:EOLhyphen"/>ness: but they have manifested the contrary in perfect hatred, in falsly accusing us, to the end we may be fined, put in a Goal, or fly from our Callings or Habitation, as Christ saith, <hi>If they persecute thee in one
+<note n="(k)" place="margin">
+                     <hi>Matth.</hi> 10.23.</note> City fly to another.</hi> Now, concerning such, Brethren, what saith the Scripture, <hi>He that hateth his Brother is a Murtherer,
+<note n="(l)" place="margin">1 <hi>Joh.</hi> 3.15.</note> and no Murtherer hath eternal life abiding in him;</hi> therefore the tender Mercies
+<note n="(m)" place="margin">
+                  <hi>Psal.</hi> 47.20.</note> of such Brethren is Cruelty, as many poor Christian Families, by woful experience, feel in this Nation, but the Lord
+<note n="(f)" place="margin">
+                  <hi>Mat.</hi> 18.15.</note>
+               <note n="(g)" place="margin">
+                  <hi>Prov.</hi> 25.9.</note>
+               <pb n="9" facs="tcp:36665:5"/>forgive them, for we do, and that by these Lines they may see their evil and Repent of the same.</p>
+            <p>Again, If our Accusers do account the Church whereof they are Members a Church of God, and so a Communion of Saints, then should they not force all people that live in their Parish to come and partake in Spiritual Communion with them; forasmuch as a Parish consisteth of all forts of people, good and bad, some Honest, Just, Faithful Livers and good Christians, others as bad wicked drunk<g ref="char:EOLhyphen"/>ards, swearers, liers, and other notorious sinners, not fit to men<g ref="char:EOLhyphen"/>tion here: now for all these to joyn together in Spiritual Commu<g ref="char:EOLhyphen"/>nion, hear what the Law of God saith, that which the unclean person toucheth is unclean, and he that toucheth him is unclean
+<note n="(a)" place="margin">
+                  <hi>Numb.</hi> 19.22.</note> so the Church which admitteth into her Communion but one known open sinner, <hi>Solomon</hi> saith destroyeth
+<note n="(b)" place="margin">
+                  <hi>Eccles.</hi> 9.18.</note> much good: so like<g ref="char:EOLhyphen"/>wise saith the Apostle, a little Leaven
+<note n="(c)" place="margin">1 <hi>Cor.</hi> 5.6.</note> Leaveneth the whole Lump. Now because the Lord dwelleth it the midst of his people, he therefore Commanded of Old that all unclean persons should be put out of the Camp, and likewise the Lord appointed Levites for Porters to
+<note n="(r)" place="margin">2 <hi>Chro.</hi> 23.19.</note> watch and ward at the doors of the Temple in <hi>Jerusalem,</hi> to keep out from his Worship, the Uncircumcised and Unclean, because Holyness
+<note n="(s)" place="margin">
+                  <hi>Ps.</hi> 93.5.</note> becometh the place where the Lord Dwelleth, and tho' they might hear the Law Expounded in the Synagogue, yet by no means until they were Converted, might they
+<note n="(t)" place="margin">
+                  <hi>Exod.</hi> 12.48.</note> Eat the Lord's Passeover, and keep the Feasts
+<note n="(u)" place="margin">
+                  <hi>Exo.</hi> 34.23.</note> of the Lord at <hi>Jerusalem:</hi> even so now under the Gospel, men Unregene<g ref="char:EOLhyphen"/>rated may hear the Word taught in some Congregation or other, yet untill they bring forth fruits meet for amendment
+<note n="(y)" place="margin">
+                  <hi>Matth.</hi> 3.8.</note> of Life they may not partake of Christ's Ordinances in Communion with the Church, for so it is written, there shall in no wise enter
+<note n="(z)" place="margin">
+                  <hi>Revel.</hi> 21.27.</note> therein, any thing that defileth or worketh Abomination, or maketh a Lye, so that to force men without Faith, to Eat and Drink the Lord's Supper Unworthily, is to make People guilty of their own damnation;
+<note n="(z)" place="margin">1 <hi>Cor.</hi> 11.27, 29.</note> therefore saith Solomon, <hi>It is a Snare for a man to devour
+<note n="(a)" place="margin">
+                     <hi>Pr.</hi> 20.25.</note> that which is holy, and after Vows to make Enquiry,</hi> Oh that our Judges would consider these things.</p>
+            <p>Now forasmuch as that there are two sorts of Professors under the Visage of Christianity, compared in Scripture to two Women, the one a Virtuous Woman, the other a Harlot: the Virtuous Woman whose price is far above Rubies, the Wife and Spouse of Christ, who as a Chast
+<note n="(b)" place="margin">1 <hi>Chro.</hi> 11.1.</note> Virgin entertaineth not all Comers good and bad, into her Communion or Bed of Love, but only such as are fit to be joyned to the Mystical Body of Christ his Church,
+<note n="(q)" place="margin">
+                  <hi>Nwnb.</hi> 5.3.</note>
+               <pb n="10" facs="tcp:36665:6"/>he being her Lord and Head, therefore the heart of her Husband doth safely trust in her: her Children also rise up and call her Blessed, her Husband and he praiseth her, for she being a King's Daughter
+<note n="(d)" place="margin">
+                  <hi>Psal.</hi> 45.9.</note> is all Glorious within, Christ dwelling in heart by Faith, therefore as his Queen is she at his right hand in
+<note n="(e)" place="margin">
+                  <hi>Ephes.</hi> 2.6.</note> hea<g ref="char:EOLhyphen"/>venly places, who for her graces, together with her heavenly Con<g ref="char:EOLhyphen"/>versation is to Admiration said, who is this that
+<note n="(f)" place="margin">
+                  <hi>Song.</hi> 6.10.</note> looketh forth as the Morning, fair as the Moon, clear as the Sun, Cloathed with
+<note n="(g)" place="margin">
+                  <hi>Rev.</hi> 12.1.</note> Christs Righteousness, Crowned with twelve Stars, travailing with pain to bring forth Children to Christ, begotten by the Im<g ref="char:EOLhyphen"/>mortal Seed
+<note n="(h)" place="margin">
+                  <hi>Pet.</hi> 3.23.</note> of Gods word by the Laborious Preaching of the same, so that of Sion it may be said this and that man was born
+<note n="(i)" place="margin">
+                  <hi>Psal.</hi> 87.5.</note> in her as new born babes in Christ, she dandleth them on her
+<note n="(k)" place="margin">
+                  <hi>Isa.</hi> 66.12.</note> knees, suckleth them with the Sinceer milk of Gods word drawn forth as it were by the means of Preaching as at the breasts of <hi>Sions</hi> Consolation, this Church or Woman, persecuteth none of her Children because they believe not in every thing she be<g ref="char:EOLhyphen"/>lieveth, but as Faith and Grace is of a growing Nature in her Children, those weak in Faith she Comforteth (as a tender Mo<g ref="char:EOLhyphen"/>ther) the Feeble
+<note n="(l)" place="margin">1 <hi>Thes.</hi> 5.14.</note> Minded by Gods Promises, so strengtheneth she the weak hands and feeble
+<note n="(m)" place="margin">
+                  <hi>Heb.</hi> 12.13.</note> knees, forasmuch as she hath no dominion
+<note n="(n)" place="margin">2 <hi>Cor.</hi> 1.24.</note> over their Faith, which is Gods Gift to them, but as a helper of their Joy, informing her Children That happy are they that condemn not
+<note n="(o)" place="margin">
+                  <hi>Rom.</hi> 14.22.23.</note> themselves in the thing they allow, but to abstain from all appearance of Evil, because whatsoever is not of Faith is Sin: so that whereto they have attained to
+<note n="(p)" place="margin">
+                  <hi>Phil.</hi> 15.16.</note> walk by the same Rule, and if in any thing any be otherwise minded, God shall reveal even it unto them, thus the Virtuous Woman is known by her Fruits, who hath received her Wisdom from above, which is first Pure then Peaceable, Gentle, and Easie to be Intreated, full of Mercy and good Fruits, without Partiality, and without Hypocrisie, and the Fruits of Righteousness is Sown in Peace of them that make Peace.
+<note n="(c)" place="margin">
+                  <hi>Prov.</hi> 31.</note>
+               <note n="(q)" place="margin">
+                  <hi>James</hi> 3.17.18.</note>
+            </p>
+            <pb n="11" facs="tcp:36665:6"/>
+            <p> Now the other sort of Professors is compared to a Harlot
+<note n="(a)" place="margin">
+                  <hi>Prov.</hi> 7.10.14.</note> subtil of heart, who boasteth that she hath Peace-Offerings, and hath paid her Vows to God, but far is she from having Peace-Offerings, either towards God or man, for all those she cannot by her fair speeches deceive, and so draw them into her Communion, as into the Bed of Love with her, she immediately sendeth forth her Children born after the
+<note n="(b)" place="margin">
+                  <hi>Gall.</hi> 4.29</note> flesh, to persecute them that are born after the Spirit; and if that will not fright them to come and commit Spiritual Fornication with her, then she Fines them, Im<g ref="char:EOLhyphen"/>prisons them, Banishes some, Hangeth others, so rather than the true Mother shall have her living Child, she will (as being not Mother of the Faithful) have them all slain or divided, and this is the Woman or Church <hi>John</hi> saw drunk
+<note n="(c)" place="margin">
+                  <hi>Rev.</hi> 17.6.</note> with the blood of Saints and Martyrs of Jesus, so by her fruits she is known, for men cannot gather Grapes of Thorns, or Figs of Thistles. Moreover, How can these our Accusers swear against their Neighbours, that for serving God according to his word (as is here proved) that we have acted against the Peace of our Soveraign Lord the King, his Crown and Dignity, as the In<g ref="char:EOLhyphen"/>dictment saith, when as nothing tendeth more to the Peace of the King, his Crown and Dignities, than when his Subjects truly sear God, and in so doing they cannot dishonor the King, but rather procure a blessing on his Land, as it is written, I will make them
+<note n="(d)" place="margin">
+                  <hi>Ezek.</hi> 34.26.</note> and the places round about my Hill a blessing, and I will cause the Showers to come down in their seasons, and there shall be Showers of Blesings, and thus, if there had been in <hi>Sodom</hi> but ten Righteous
+<note n="(e)" place="margin">
+                  <hi>Gen.</hi> 18.32.</note> persons, for their sakes God would not have destroyed it. If then Nations are blessed for the sake of the Godly living among them; how ought Kings and all Governours under him, as God requireth them to be Nursing
+<note n="(f)" place="margin">
+                  <hi>Isa.</hi> 49.23.</note> Fathers to them to defend them from all Persecutors, to wit the Dragon
+<note n="(g)" place="margin">
+                  <hi>Rev.</hi> 12.15.16.</note> the Devil in his servants who casteth out of his mouth Floods of Reproaches and false Accusations to devour them, had not the Earth helped the Woman, meaning the Kings of the Earth: but on the contrary when Kings neglect their duty they owe to God in the care of their Subjects, that oppression upon their Conscience in matters of Faith, to make them forsake the Lord, as oft-times the Kings of <hi>Judah</hi> did, and also <hi>Jeroboham</hi>
+               <pb n="12" facs="tcp:36665:7"/>was charged for making <hi>Israel</hi> sin, for which Gods Judgments often came on <hi>Judah,</hi> and also upon <hi>Israel,</hi> so that there was no peace to him that went out, nor to him that came in, but Nation was de<g ref="char:EOLhyphen"/>stroyed of Nation, and City of City, for God did vex them with all Adversity.</p>
+            <p>And thus we see when the Kings Subjects serve the Lord accord<g ref="char:EOLhyphen"/>ing to his Word, then the Lord giveth
+<note n="(b)" place="margin">
+                  <hi>Job</hi> 34.29.</note> quietness, and who shall make trouble, and this tendeth to the great peace of the King, his Crown and Dignity; but when his Subjects serve God by the devi<g ref="char:EOLhyphen"/>ses of men, that bringeth on a Land Gods Judgment, as is at large shewed in a Christian Warning Piece, presented to the King, <hi>April</hi> 14. 1680. which may be had where this is sould.</p>
+            <p>And lastly, How plain was Gods mind written to his people of old, and us in them, whom he brought out of <hi>Egypt,</hi> as now his people out of the Spiritual
+<note n="(c)" place="margin">
+                  <hi>Revel.</hi> 11.8. <hi>Lev.</hi> 18.2, 3.</note>
+               <hi>Egypt,</hi> saying to them, and now to us, that after the doings of the Land of <hi>Egypt,</hi> wherein ye dwelt shall ye not do, nor after the doings of the Land of <hi>Canaan</hi> whether I bring you, shall ye not do, neither walk in their Ordinances, I am the Lord. Neither were they to inquire
+<note n="(d)" place="margin">
+                  <hi>Deut.</hi> 12.32.</note> how the Nations served their gods, to do so to the Lord their God, these things being written for all Christians Admonition
+<note n="(e)" place="margin">1 <hi>Cor.</hi> 10.11.</note> how then doth it behove all to search and try their
+<note n="(f)" place="margin">
+                  <hi>Lam.</hi> 3.40.</note> ways, that they may be found amongst the called Chosen, and faithful Followers
+<note n="(g)" place="margin">
+                  <hi>Revel.</hi> 17.14.</note> of Christ, and to be earnest with the Lord that he will turn
+<note n="(h)" place="margin">
+                  <hi>Pro.</hi> 21.1.</note> the Kings heart, to put a stop to the Cruel and unmerciful dealings of men against his Loyal Subjects for no other cause, but for fearing God and Honouring the King, when as the Persecutors neither Fear God nor Honour the King, but are open Enemies to God and his people: now therefore saith <hi>Soloman,</hi> they that forsake the Law praise the wicked, but such as keep the Law contend with them, <hi>Prov</hi> 28.4
+<note n="(a)" place="margin">2 <hi>Chr.</hi> 15.3, 4, 5, 6.</note>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
